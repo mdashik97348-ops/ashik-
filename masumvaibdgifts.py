@@ -3,7 +3,7 @@ import time
 import threading
 import requests
 
-PASSWORD = "masumvaibd"
+PASSWORD = "ashikvaibd"
 
 def banner():
     os.system("clear")
